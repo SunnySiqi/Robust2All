@@ -1,5 +1,5 @@
 # Robust2All: A Benchmark for Robustness to In-Domain Noise and Out-of-Domain Generalization
-Implementation of the submission "Robust2All: A Benchmark for Robustness to In-Domain Noise and Out-of-Domain Generalization"
+Implementation of the paper "Robust2All: A Benchmark for Robustness to In-Domain Noise and Out-of-Domain Generalization"
 
 ## Dependencies
 The code has been written using Python3 (3.10.4), run `pip install -r requirements.txt` to install relevant python packages.
