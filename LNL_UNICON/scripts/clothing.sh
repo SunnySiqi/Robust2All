@@ -1,0 +1,1 @@
+python Train/Train_dg_clothing.py --batch_size 32 --num_epochs 300 --data_path 
